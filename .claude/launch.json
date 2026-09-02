@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "solvencyscan",
+      "runtimeExecutable": "/Users/akkankshatammana/Downloads/corporate-failure-lab/.venv/bin/streamlit",
+      "runtimeArgs": ["run", "app.py", "--server.headless", "true"],
+      "port": 8501
+    }
+  ]
+}
